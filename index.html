@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="pti01.css">
+    <title>Sua Aplicação</title>
+</head>
+<body>
+    <!-- Tela 01 -->
+    <div class="screen" id="tela01">
+      <div class="container">
+        <img src="logo.png" alt="Logo da Empresa" height="200" width="200">
+        <input type="text" id="usuario" placeholder="Usuário">
+        <input type="password" id="senha" placeholder="Senha">
+        <button class="green-button">Login</button>
+        <button id="btnRegistrar" class="green-button">Registrar</button>
+        <button class="green-button">Entrar com o Google</button>
+        <button class="green-button">Entrar com o Facebook</button>
+    </div>
+
+    <!-- Tela de Registro -->
+    <div class="screen" id="telaDeRegistro">
+      <div class="container"> 
+        <img src="logo.png" alt="Logo da Empresa" height="200" width="200">
+        <input type="text" id="nome" placeholder="Nome Completo">
+        <input type="text" id="cpf" placeholder="CPF">
+        <input type="text" id="email" placeholder="email">
+        <input type="text" id="senhaAcesso" placeholder="Senha de acesso">
+        <input type="number" id="confirmeSenha" placeholder="confirme sua senha">
+    const btnTelaDeRegistroRetornar = document.querySelector("#telaDeRegistro button:nth-child(1)");
+        <button id="btnTelaDeRegistroRetornar" class="green-button">Retornar</button>
+        <button id="btnTelaDeRegistroProximo" class="green-button">PRÓXIMO</button>
+      </div>
+
+      <!-- Tela de Registro 02 -->
+      <div class="screen" id="telaDeRegistro02">
+        <div class="container"> 
+          <img src="logo.png" alt="Logo da Empresa" height="200" width="200">
+          <input type="text" id="rua" placeholder="Rua">
+          <input type="text" id="numero" placeholder="Número">
+          <input type="text" id="bairro" placeholder="Bairro">
+          <input type="text" id="cep" placeholder="CEP">
+          <input type="number" id="estado" placeholder="Estado">
+          <input type="number" id="cidade" placeholder="Cidade">
+          <button class="green-button">Retornar</button>
+          <button class="green-button">Finalizar</button>
+        </div>
+
+    <!-- Tela de Seleção de Produtos -->
+    <!-- ... (mesma estrutura de elementos) -->
+
+    <!-- Tela de Compra Confirmada -->
+    <!-- ... (mesma estrutura de elementos) -->
+
+    <script src="pti01.js"></script>
+</body>
+</html>
