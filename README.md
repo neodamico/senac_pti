@@ -5,9 +5,9 @@
 + Nelson Damico Junior
 + Pablo Silva Gonçalves
 + Paula Eduarda Dos Santos
-# Organic 
+# *Organic*
 
-## Sobre o projeto
+ ## *Sobre o projeto*
 
 Aplicativo para conectar as cooperativas de produtores de alimentos orgânicos de maneira a possibilitar uma venda direta aos consumidores finais.
 
