@@ -14,4 +14,7 @@ Aplicativo para conectar as cooperativas de produtores de alimentos orgânicos d
 ### Para abaixar o aplicativo Organic
 + Procure o aplicativo Organic  na Google Play Store. Toque em INSTALAR.
 + Abra o Organic e aceite os Termos de Serviço para continuar para a próxima tela.
-+ Crie uma conta, insira seu endereço de email e selecione Conectar
++ Crie uma conta, insira seu endereço de email e a senha e escolha OK.
++ Verifique a confirmação no celular.
+
+  ![aplicativo 1](https://github.com/neodamico/senac_pti/assets/143230275/e0286e92-75b2-42dc-8697-ecce54c373f0)
