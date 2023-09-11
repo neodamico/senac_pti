@@ -59,6 +59,9 @@ Aplicativo para conectar as cooperativas de produtores de alimentos orgânicos d
 ### Ferramenta
 - [Node](https://nodejs.org/)
 - [React Native](https://reactnative.dev/)
+- [Mobx State Tree](https://mobx-state-tree.js.org/)
+- [Google Maps](https://maps.google.com/)
+- [Google Geo Location](https://developers.google.com/maps/documentation/geolocation/overview)
 
 
  
