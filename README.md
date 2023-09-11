@@ -32,6 +32,32 @@ Aplicativo para conectar as cooperativas de produtores de alimentos orgânicos d
 
 ![aplicativo 1 3](https://github.com/neodamico/senac_pti/assets/143230275/88289847-46b1-4f0c-95b2-8af622b4dcfb)
 
+### Entregador parceiro
++ Após a instalação do aplicativo escolhe a opção parceiro e entrega.
++ Entra na opção motorista e cadastra nome, CPF e celular.
++ Depois vai em veículos cadastra placa e modelo.
++ Por último a forma de  pagamento.
+
+![aplicativo 2 1](https://github.com/neodamico/senac_pti/assets/143230275/71b61285-d6bf-4c84-a511-c7152c1f8a52)
+
+![aplicativo 2 2](https://github.com/neodamico/senac_pti/assets/143230275/3c7e14e7-db34-4ec3-92c7-d3002481175d)
+
+  
+### Consumidor
++ Após a instalação do aplicativo escolha a opção cliente.
++ Preencha dados pessoais.
++ Preencha endereço.
++ Terá acesso as opções de verduras, frutas e legumes.
++ Coloque no carrinho suas escolhas.
++ endereço de entrega.
++ Forma de pagamento.
+
+![aplicativo 2 3](https://github.com/neodamico/senac_pti/assets/143230275/cbf7d222-ad36-46b6-b3b5-6cec494850ab)
+
+![c64b3ff5-6a21-4f3e-9a91-ea3e4ee3ac75](https://github.com/neodamico/senac_pti/assets/143230275/b9234993-6068-43f6-b7ab-fd5d8636baa2)
+
+
+  
 
 
  
