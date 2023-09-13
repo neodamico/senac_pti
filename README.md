@@ -17,7 +17,7 @@ Aplicativo para conectar as cooperativas de produtores de alimentos orgânicos d
 + Crie uma conta, insira seu endereço de email e a senha e escolha OK.
 + Verifique a confirmação no celular.
 
-![aplicativo 1 1](https://github.com/neodamico/senac_pti/assets/143230275/b7e19da7-6f4b-4970-9b5e-aad76da7ca90)
+![aplicativo 1 1](https://github.com/neodamico/senac_pti/assets/143230275/41e1064b-be30-4755-881c-abe655fb5797)
 
 
 
@@ -28,9 +28,9 @@ Aplicativo para conectar as cooperativas de produtores de alimentos orgânicos d
 + Após a confirmação escolha forma de pagamento que irá trabalhar.
 + Cadastre os produtos e fotos.
 
- ![aplicativo 1 2](https://github.com/neodamico/senac_pti/assets/143230275/d90a45d8-518d-4e38-a5ce-2688007834e6)
+![aplicativo 1 2](https://github.com/neodamico/senac_pti/assets/143230275/c7e6ba09-3063-42e9-bd25-dcc004636659)
 
-![aplicativo 1 3](https://github.com/neodamico/senac_pti/assets/143230275/88289847-46b1-4f0c-95b2-8af622b4dcfb)
+![aplicativo 1 3](https://github.com/neodamico/senac_pti/assets/143230275/7fa5da8d-950b-4b00-b0f5-6a7883249a1e)
 
 ### Entregador parceiro
 + Após a instalação do aplicativo escolhe a opção parceiro e entrega.
@@ -38,9 +38,9 @@ Aplicativo para conectar as cooperativas de produtores de alimentos orgânicos d
 + Depois vai em veículos cadastra placa e modelo.
 + Por último a forma de  pagamento.
 
-![aplicativo 2 1](https://github.com/neodamico/senac_pti/assets/143230275/71b61285-d6bf-4c84-a511-c7152c1f8a52)
+![aplicativo 2 1](https://github.com/neodamico/senac_pti/assets/143230275/21123872-40a2-4427-aa71-ee71466829fa)
 
-![aplicativo 2 2](https://github.com/neodamico/senac_pti/assets/143230275/3c7e14e7-db34-4ec3-92c7-d3002481175d)
+![aplicativo 2 2](https://github.com/neodamico/senac_pti/assets/143230275/87db144d-0c3c-489f-8684-a263bbc7f063)
 
   
 ### Consumidor
@@ -52,9 +52,9 @@ Aplicativo para conectar as cooperativas de produtores de alimentos orgânicos d
 + endereço de entrega.
 + Forma de pagamento.
 
-![aplicativo 2 3](https://github.com/neodamico/senac_pti/assets/143230275/cbf7d222-ad36-46b6-b3b5-6cec494850ab)
+![aplicativo 2 3](https://github.com/neodamico/senac_pti/assets/143230275/2522440e-1862-4981-aafa-4dfd6c93a20e)
 
-![c64b3ff5-6a21-4f3e-9a91-ea3e4ee3ac75](https://github.com/neodamico/senac_pti/assets/143230275/b9234993-6068-43f6-b7ab-fd5d8636baa2)
+![c64b3ff5-6a21-4f3e-9a91-ea3e4ee3ac75](https://github.com/neodamico/senac_pti/assets/143230275/cd594869-b90d-4afc-93d8-4b8adbdbfd16)
 
 ### Ferramenta
 - [Node](https://nodejs.org/)
