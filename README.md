@@ -6,6 +6,7 @@
 + Pablo Silva Gonçalves
 + Paula Eduarda Dos Santos
 # *Organic*
+[![NMP](https://img.shields.io/mpm/1/react)] (
 
  ## *Sobre o projeto*
 
