@@ -74,12 +74,14 @@ Aplicativo para conectar as cooperativas de produtores de alimentos orgânicos d
 - [Mobx State Tree](https://mobx-state-tree.js.org/)
 - [Google Maps](https://maps.google.com/)
 - [Google Geo Location](https://developers.google.com/maps/documentation/geolocation/overview)
-
+  
+### Como executar o projeto
   ```bash
   # clonar repositório
   https://github.com/neodamico/senac_pti/blob/main/index.html
 
   # entrar na pasta do projeto
+  https://github.com/neodamico/senac_pti
   ```
 
 
