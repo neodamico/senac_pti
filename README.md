@@ -5,7 +5,7 @@
 + Nelson Damico Junior
 + Pablo Silva Gonçalves
 + Paula Eduarda Dos Santos
-# *Organic*
+# *Organic* ![logo](logo.png)
 [![NMP](https://img.shields.io/npm/l/react)](https://github.com/neodamico/senac_pti/blob/main/LICENSE)
 
  ## *Sobre o projeto*
@@ -72,6 +72,6 @@ Aplicativo para conectar as cooperativas de produtores de alimentos orgânicos d
 - [Google Geo Location](https://developers.google.com/maps/documentation/geolocation/overview)
 
 
-![Imagen 1](https://github.com/neodamico/senac_pti/blob/main/Imagens%20para%20aplicativo%20Organics/000001.jpg,width="100px")
+![Imagen 1](https://github.com/neodamico/senac_pti/blob/main/Imagens%20para%20aplicativo%20Organics/000001.jpg)
 
 
