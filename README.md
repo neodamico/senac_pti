@@ -21,6 +21,7 @@ Aplicativo para conectar as cooperativas de produtores de alimentos orgânicos d
 + Entregador parceiro
 + Consumidor
 + Ferramentas utilizadas no projeto
++ Como executar o projeto
 
 ### Para baixar o aplicativo Organic
 + Procure o aplicativo Organic  na Google Play Store. Toque em INSTALAR.
@@ -73,6 +74,13 @@ Aplicativo para conectar as cooperativas de produtores de alimentos orgânicos d
 - [Mobx State Tree](https://mobx-state-tree.js.org/)
 - [Google Maps](https://maps.google.com/)
 - [Google Geo Location](https://developers.google.com/maps/documentation/geolocation/overview)
+
+  ```bash
+  # clonar repositório
+  https://github.com/neodamico/senac_pti/blob/main/index.html
+
+  # entrar na pasta do projeto
+  ```
 
 
 
