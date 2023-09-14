@@ -16,7 +16,7 @@
 Aplicativo para conectar as cooperativas de produtores de alimentos orgânicos de maneira a possibilitar uma venda direta aos consumidores finais.
 
 ### *Índice*
-+ Para baixar o aplicativo Organic
+*[Para baixar o aplicativo Organic] (#Para baixar o aplicativo Organic)
 + Como vender na Organic
 + Entregador parceiro
 + Consumidor
