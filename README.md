@@ -17,7 +17,7 @@ Aplicativo para conectar as cooperativas de produtores de alimentos orgânicos d
 + Como vender na Organic
 + Entregador parceiro
 + Consumidor
-+ Ferramentas
++ Ferramentas utilizadas no projeto
 
 ### Para baixar o aplicativo Organic
 + Procure o aplicativo Organic  na Google Play Store. Toque em INSTALAR.
@@ -64,7 +64,7 @@ Aplicativo para conectar as cooperativas de produtores de alimentos orgânicos d
 
 ![c64b3ff5-6a21-4f3e-9a91-ea3e4ee3ac75](https://github.com/neodamico/senac_pti/assets/143230275/cd594869-b90d-4afc-93d8-4b8adbdbfd16)
 
-### Ferramentas
+### Ferramentas utilizadas no projeto
 - [Node](https://nodejs.org/)
 - [React Native](https://reactnative.dev/)
 - [Mobx State Tree](https://mobx-state-tree.js.org/)
