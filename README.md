@@ -74,3 +74,4 @@ Aplicativo para conectar as cooperativas de produtores de alimentos orgânicos d
 
 ![Imagen 1](https://github.com/neodamico/senac_pti/blob/main/Imagens%20para%20aplicativo%20Organics/000001.jpg)
 
+<img src="000001.jpg" with="100px"/>
