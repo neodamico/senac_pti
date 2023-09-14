@@ -6,7 +6,7 @@
 + Pablo Silva Gonçalves
 + Paula Eduarda Dos Santos
 # *Organic*
-[![NMP](https://img.shields.io/mpm/1/react)](https://github.com/neodamico/senac_pti/blob/main/LICENSE)
+[![NMP](https://img.shields.io/npm/1/react)](https://github.com/neodamico/senac_pti/blob/main/LICENSE)
 
  ## *Sobre o projeto*
 
