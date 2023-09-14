@@ -1,4 +1,4 @@
-### senac_pti grupo 08
+### senac_pi grupo 08
 + Deyvison Ramos da Silva
 + Leideane Souza Dias
 + Lucas Oliveira Rosa
