@@ -12,7 +12,14 @@
 
 Aplicativo para conectar as cooperativas de produtores de alimentos orgânicos de maneira a possibilitar uma venda direta aos consumidores finais.
 
-### Para abaixar o aplicativo Organic
+### *Índice*
++ Para baixar o aplicativo Organic
++ Como vender na Organic
++ Entregador parceiro
++ Consumidor
++ Ferramentas
+
+### Para baixar o aplicativo Organic
 + Procure o aplicativo Organic  na Google Play Store. Toque em INSTALAR.
 + Abra o Organic e aceite os Termos de Serviço para continuar para a próxima tela.
 + Crie uma conta, insira seu endereço de email e a senha e escolha OK.
@@ -57,7 +64,7 @@ Aplicativo para conectar as cooperativas de produtores de alimentos orgânicos d
 
 ![c64b3ff5-6a21-4f3e-9a91-ea3e4ee3ac75](https://github.com/neodamico/senac_pti/assets/143230275/cd594869-b90d-4afc-93d8-4b8adbdbfd16)
 
-### Ferramenta
+### Ferramentas
 - [Node](https://nodejs.org/)
 - [React Native](https://reactnative.dev/)
 - [Mobx State Tree](https://mobx-state-tree.js.org/)
