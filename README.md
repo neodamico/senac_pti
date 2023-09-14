@@ -5,7 +5,9 @@
 + Nelson Damico Junior
 + Pablo Silva Gonçalves
 + Paula Eduarda Dos Santos
-# *Organic* ![logo](logo.png)
+  
+# *Organic* 
+![logo](https://github.com/neodamico/senac_pti/blob/main/logo.png)
 [![NMP](https://img.shields.io/npm/l/react)](https://github.com/neodamico/senac_pti/blob/main/LICENSE)
 
  ## *Sobre o projeto*
